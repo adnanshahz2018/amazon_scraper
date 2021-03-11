@@ -1,12 +1,11 @@
 {
     "Arts & Entertainment": {
+    "null": "https://www.amazon.com/Best-Sellers-Audible-Audiobooks-Arts-Entertainment/zgbs/audible/18571910011/ref=zg_bs_nav_1_audible/139-0586482-3609817",
 	"Art": {
             "null": "https://www.amazon.com/Best-Sellers-Audible-Audiobooks-Art/zgbs/audible/18571913011/ref=zg_bs_nav_2_18571910011",
             "History & Criticism": "https://www.amazon.com/Best-Sellers-Audible-Audiobooks-Art-History-Criticism/zgbs/audible/18571917011/ref=zg_bs_nav_3_18571913011"
         },
-        "null": "https://www.amazon.com/Best-Sellers-Audible-Audiobooks-Arts-Entertainment/zgbs/audible/18571910011/ref=zg_bs_nav_1_audible/139-0586482-3609817",
         "Architecture": "https://www.amazon.com/Best-Sellers-Audible-Audiobooks-Architecture/zgbs/audible/18571912011/ref=zg_bs_nav_2_18571910011",
-        
         "Audio Performances & Dramatizations": "https://www.amazon.com/Best-Sellers-Audible-Audiobooks-Audio-Performances-Dramatizations/zgbs/audible/18571919011/ref=zg_bs_nav_2_18571910011",
         "Entertainment & Performing Arts": { 
             "null": "https://www.amazon.com/Best-Sellers-Audible-Audiobooks-Entertainment-Performing-Arts/zgbs/audible/18571923011/ref=zg_bs_nav_2_18571910011",

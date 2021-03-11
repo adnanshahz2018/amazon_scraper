@@ -1,0 +1,335 @@
+Microsoft Windows [Version 10.0.19042.685]
+(c) 2020 Microsoft Corporation. All rights reserved.
+
+C:\Users\micha>cd \
+
+C:\>cd C:\Users\micha\Documents\Amazon_Scrape_Books\Amazon Scraper
+
+C:\Users\micha\Documents\Amazon_Scrape_Books\Amazon Scraper>pip install -r requirements.txt
+Defaulting to user installation because normal site-packages is not writeable
+Collecting altgraph==0.17
+  Downloading altgraph-0.17-py2.py3-none-any.whl (21 kB)
+Collecting amazon-scraper==0.3.3
+  Downloading amazon_scraper-0.3.3.tar.gz (13 kB)
+Collecting argon2-cffi==20.1.0
+  Downloading argon2_cffi-20.1.0-cp39-cp39-win_amd64.whl (42 kB)
+     |████████████████████████████████| 42 kB 3.2 MB/s
+Collecting astroid==2.4.2
+  Downloading astroid-2.4.2-py3-none-any.whl (213 kB)
+     |████████████████████████████████| 213 kB 6.8 MB/s
+Collecting async-generator==1.10
+  Downloading async_generator-1.10-py3-none-any.whl (18 kB)
+Collecting attrs==20.3.0
+  Downloading attrs-20.3.0-py2.py3-none-any.whl (49 kB)
+     |████████████████████████████████| 49 kB 2.6 MB/s
+Collecting backcall==0.2.0
+  Downloading backcall-0.2.0-py2.py3-none-any.whl (11 kB)
+Collecting beautifulsoup4==4.9.3
+  Downloading beautifulsoup4-4.9.3-py3-none-any.whl (115 kB)
+     |████████████████████████████████| 115 kB 6.4 MB/s
+Collecting bleach==3.2.1
+  Downloading bleach-3.2.1-py2.py3-none-any.whl (145 kB)
+     |████████████████████████████████| 145 kB 6.8 MB/s
+Collecting bottlenose==1.1.8
+  Downloading bottlenose-1.1.8-py2.py3-none-any.whl (15 kB)
+Collecting bs4==0.0.1
+  Downloading bs4-0.0.1.tar.gz (1.1 kB)
+Collecting cachetools==4.2.1
+  Downloading cachetools-4.2.1-py3-none-any.whl (12 kB)
+Collecting certifi==2020.12.5
+  Downloading certifi-2020.12.5-py2.py3-none-any.whl (147 kB)
+     |████████████████████████████████| 147 kB 6.4 MB/s
+Collecting cffi==1.14.4
+  Downloading cffi-1.14.4-cp39-cp39-win_amd64.whl (179 kB)
+     |████████████████████████████████| 179 kB ...
+Collecting chardet==4.0.0
+  Downloading chardet-4.0.0-py2.py3-none-any.whl (178 kB)
+     |████████████████████████████████| 178 kB 6.8 MB/s
+Collecting colorama==0.4.4
+  Downloading colorama-0.4.4-py2.py3-none-any.whl (16 kB)
+Collecting comtypes==1.1.8
+  Downloading comtypes-1.1.8.zip (181 kB)
+     |████████████████████████████████| 181 kB ...
+Collecting decorator==4.4.2
+  Downloading decorator-4.4.2-py2.py3-none-any.whl (9.2 kB)
+Collecting defusedxml==0.6.0
+  Downloading defusedxml-0.6.0-py2.py3-none-any.whl (23 kB)
+Collecting entrypoints==0.3
+  Downloading entrypoints-0.3-py2.py3-none-any.whl (11 kB)
+Collecting et-xmlfile==1.0.1
+  Downloading et_xmlfile-1.0.1.tar.gz (8.4 kB)
+Collecting future==0.18.2
+  Downloading future-0.18.2.tar.gz (829 kB)
+     |████████████████████████████████| 829 kB 6.8 MB/s
+Collecting fuzzywuzzy==0.18.0
+  Downloading fuzzywuzzy-0.18.0-py2.py3-none-any.whl (18 kB)
+Collecting idna==2.10
+  Downloading idna-2.10-py2.py3-none-any.whl (58 kB)
+     |████████████████████████████████| 58 kB 3.0 MB/s
+Collecting ipykernel==5.4.2
+  Downloading ipykernel-5.4.2-py3-none-any.whl (119 kB)
+     |████████████████████████████████| 119 kB 6.8 MB/s
+Collecting ipython==7.19.0
+  Downloading ipython-7.19.0-py3-none-any.whl (784 kB)
+     |████████████████████████████████| 784 kB 6.8 MB/s
+Collecting ipython-genutils==0.2.0
+  Downloading ipython_genutils-0.2.0-py2.py3-none-any.whl (26 kB)
+Collecting ipywidgets==7.6.2
+  Downloading ipywidgets-7.6.2-py2.py3-none-any.whl (121 kB)
+     |████████████████████████████████| 121 kB 6.4 MB/s
+Collecting isort==5.6.4
+  Downloading isort-5.6.4-py3-none-any.whl (98 kB)
+     |████████████████████████████████| 98 kB 6.4 MB/s
+Collecting jdcal==1.4.1
+  Downloading jdcal-1.4.1-py2.py3-none-any.whl (9.5 kB)
+Collecting jedi==0.18.0
+  Downloading jedi-0.18.0-py2.py3-none-any.whl (1.4 MB)
+     |████████████████████████████████| 1.4 MB 6.8 MB/s
+Collecting Jinja2==2.11.2
+  Downloading Jinja2-2.11.2-py2.py3-none-any.whl (125 kB)
+     |████████████████████████████████| 125 kB ...
+Collecting jsonschema==3.2.0
+  Downloading jsonschema-3.2.0-py2.py3-none-any.whl (56 kB)
+     |████████████████████████████████| 56 kB 3.8 MB/s
+Collecting jupyter==1.0.0
+  Downloading jupyter-1.0.0-py2.py3-none-any.whl (2.7 kB)
+Collecting jupyter-client==6.1.7
+  Downloading jupyter_client-6.1.7-py3-none-any.whl (108 kB)
+     |████████████████████████████████| 108 kB ...
+Collecting jupyter-console==6.2.0
+  Downloading jupyter_console-6.2.0-py3-none-any.whl (22 kB)
+Collecting jupyter-core==4.7.0
+  Downloading jupyter_core-4.7.0-py3-none-any.whl (82 kB)
+     |████████████████████████████████| 82 kB 5.8 MB/s
+Collecting jupyterlab-pygments==0.1.2
+  Downloading jupyterlab_pygments-0.1.2-py2.py3-none-any.whl (4.6 kB)
+Collecting jupyterlab-widgets==1.0.0
+  Downloading jupyterlab_widgets-1.0.0-py3-none-any.whl (243 kB)
+     |████████████████████████████████| 243 kB 6.8 MB/s
+Collecting lazy-object-proxy==1.4.3
+  Downloading lazy-object-proxy-1.4.3.tar.gz (34 kB)
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+    Preparing wheel metadata ... done
+Collecting lxml==4.6.2
+  Downloading lxml-4.6.2-cp39-cp39-win_amd64.whl (3.5 MB)
+     |████████████████████████████████| 3.5 MB 6.8 MB/s
+Collecting MarkupSafe==1.1.1
+  Downloading MarkupSafe-1.1.1-cp39-cp39-win_amd64.whl (16 kB)
+Collecting mccabe==0.6.1
+  Downloading mccabe-0.6.1-py2.py3-none-any.whl (8.6 kB)
+Collecting mistune==0.8.4
+  Downloading mistune-0.8.4-py2.py3-none-any.whl (16 kB)
+Collecting nbclient==0.5.1
+  Downloading nbclient-0.5.1-py3-none-any.whl (65 kB)
+     |████████████████████████████████| 65 kB 4.8 MB/s
+Collecting nbconvert==6.0.7
+  Downloading nbconvert-6.0.7-py3-none-any.whl (552 kB)
+     |████████████████████████████████| 552 kB 6.4 MB/s
+Collecting nbformat==5.0.8
+  Downloading nbformat-5.0.8-py3-none-any.whl (172 kB)
+     |████████████████████████████████| 172 kB 6.4 MB/s
+Collecting nest-asyncio==1.4.3
+  Downloading nest_asyncio-1.4.3-py3-none-any.whl (5.3 kB)
+Collecting notebook==6.1.6
+  Downloading notebook-6.1.6-py3-none-any.whl (9.5 MB)
+     |████████████████████████████████| 9.5 MB 6.4 MB/s
+Collecting numpy==1.20.1
+  Downloading numpy-1.20.1-cp39-cp39-win_amd64.whl (13.7 MB)
+     |████████████████████████████████| 13.7 MB 6.8 MB/s
+Collecting openpyxl==3.0.6
+  Downloading openpyxl-3.0.6-py2.py3-none-any.whl (242 kB)
+     |████████████████████████████████| 242 kB 6.4 MB/s
+Collecting packaging==20.8
+  Downloading packaging-20.8-py2.py3-none-any.whl (39 kB)
+Collecting pandas==1.2.2
+  Downloading pandas-1.2.2-cp39-cp39-win_amd64.whl (9.3 MB)
+     |████████████████████████████████| 9.3 MB ...
+Collecting pandocfilters==1.4.3
+  Downloading pandocfilters-1.4.3.tar.gz (16 kB)
+Collecting parso==0.8.1
+  Downloading parso-0.8.1-py2.py3-none-any.whl (93 kB)
+     |████████████████████████████████| 93 kB 877 kB/s
+Collecting pefile==2019.4.18
+  Downloading pefile-2019.4.18.tar.gz (62 kB)
+     |████████████████████████████████| 62 kB 408 kB/s
+Collecting pickleshare==0.7.5
+  Downloading pickleshare-0.7.5-py2.py3-none-any.whl (6.9 kB)
+Collecting prometheus-client==0.9.0
+  Downloading prometheus_client-0.9.0-py2.py3-none-any.whl (53 kB)
+     |████████████████████████████████| 53 kB ...
+Collecting prompt-toolkit==3.0.9
+  Downloading prompt_toolkit-3.0.9-py3-none-any.whl (355 kB)
+     |████████████████████████████████| 355 kB 6.8 MB/s
+Collecting py2exe==0.10.2.0
+  Downloading py2exe-0.10.2.0-cp39-none-win_amd64.whl (141 kB)
+     |████████████████████████████████| 141 kB 6.4 MB/s
+Collecting pycparser==2.20
+  Downloading pycparser-2.20-py2.py3-none-any.whl (112 kB)
+     |████████████████████████████████| 112 kB ...
+Collecting Pygments==2.7.3
+  Downloading Pygments-2.7.3-py3-none-any.whl (950 kB)
+     |████████████████████████████████| 950 kB 6.4 MB/s
+Collecting pyinstaller==4.2
+  Downloading pyinstaller-4.2.tar.gz (3.6 MB)
+     |████████████████████████████████| 3.6 MB 6.4 MB/s
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+    Preparing wheel metadata ... done
+Collecting pyinstaller-hooks-contrib==2020.11
+  Downloading pyinstaller_hooks_contrib-2020.11-py2.py3-none-any.whl (172 kB)
+     |████████████████████████████████| 172 kB ...
+Collecting pylint==2.6.0
+  Downloading pylint-2.6.0-py3-none-any.whl (325 kB)
+     |████████████████████████████████| 325 kB 6.4 MB/s
+Collecting pyparsing==2.4.7
+  Downloading pyparsing-2.4.7-py2.py3-none-any.whl (67 kB)
+     |████████████████████████████████| 67 kB 2.8 MB/s
+Collecting PyPDF2==1.26.0
+  Downloading PyPDF2-1.26.0.tar.gz (77 kB)
+     |████████████████████████████████| 77 kB 5.1 MB/s
+Collecting pypiwin32==223
+  Downloading pypiwin32-223-py3-none-any.whl (1.7 kB)
+Collecting pyrsistent==0.17.3
+  Downloading pyrsistent-0.17.3.tar.gz (106 kB)
+     |████████████████████████████████| 106 kB 6.8 MB/s
+Collecting python-amazon-simple-product-api==2.2.11
+  Downloading python-amazon-simple-product-api-2.2.11.tar.gz (27 kB)
+Collecting python-dateutil==2.8.1
+  Downloading python_dateutil-2.8.1-py2.py3-none-any.whl (227 kB)
+     |████████████████████████████████| 227 kB 6.8 MB/s
+Collecting pyttsx3==2.90
+  Downloading pyttsx3-2.90-py3-none-any.whl (39 kB)
+Collecting pytz==2021.1
+  Downloading pytz-2021.1-py2.py3-none-any.whl (510 kB)
+     |████████████████████████████████| 510 kB 6.4 MB/s
+Collecting pywin32==300
+  Downloading pywin32-300-cp39-cp39-win_amd64.whl (9.2 MB)
+     |████████████████████████████████| 9.2 MB 3.3 MB/s
+Collecting pywin32-ctypes==0.2.0
+  Downloading pywin32_ctypes-0.2.0-py2.py3-none-any.whl (28 kB)
+Collecting pywinpty==0.5.7
+  Downloading pywinpty-0.5.7.tar.gz (49 kB)
+     |████████████████████████████████| 49 kB 2.8 MB/s
+Collecting pyzmq==20.0.0
+  Downloading pyzmq-20.0.0-cp39-cp39-win_amd64.whl (699 kB)
+     |████████████████████████████████| 699 kB ...
+Collecting qtconsole==5.0.1
+  Downloading qtconsole-5.0.1-py3-none-any.whl (118 kB)
+     |████████████████████████████████| 118 kB 6.4 MB/s
+Collecting QtPy==1.9.0
+  Downloading QtPy-1.9.0-py2.py3-none-any.whl (54 kB)
+     |████████████████████████████████| 54 kB 1.2 MB/s
+Collecting requests==2.25.1
+  Downloading requests-2.25.1-py2.py3-none-any.whl (61 kB)
+     |████████████████████████████████| 61 kB 3.8 MB/s
+Collecting schedule==1.0.0
+  Downloading schedule-1.0.0-py2.py3-none-any.whl (9.0 kB)
+Collecting selenium==3.141.0
+  Downloading selenium-3.141.0-py2.py3-none-any.whl (904 kB)
+     |████████████████████████████████| 904 kB 6.4 MB/s
+Collecting Send2Trash==1.5.0
+  Downloading Send2Trash-1.5.0-py3-none-any.whl (12 kB)
+Collecting six==1.15.0
+  Downloading six-1.15.0-py2.py3-none-any.whl (10 kB)
+Collecting soupsieve==2.1
+  Downloading soupsieve-2.1-py3-none-any.whl (32 kB)
+Collecting terminado==0.9.2
+  Downloading terminado-0.9.2-py3-none-any.whl (14 kB)
+Collecting testpath==0.4.4
+  Downloading testpath-0.4.4-py2.py3-none-any.whl (163 kB)
+     |████████████████████████████████| 163 kB ...
+Collecting thread6==0.2.0
+  Downloading thread6-0.2.0-py3-none-any.whl (4.2 kB)
+Collecting toml==0.10.2
+  Downloading toml-0.10.2-py2.py3-none-any.whl (16 kB)
+Collecting tornado==6.1
+  Downloading tornado-6.1-cp39-cp39-win_amd64.whl (422 kB)
+     |████████████████████████████████| 422 kB ...
+Collecting traitlets==5.0.5
+  Downloading traitlets-5.0.5-py3-none-any.whl (100 kB)
+     |████████████████████████████████| 100 kB 6.8 MB/s
+Collecting urllib3==1.26.2
+  Downloading urllib3-1.26.2-py2.py3-none-any.whl (136 kB)
+     |████████████████████████████████| 136 kB 6.4 MB/s
+Collecting wcwidth==0.2.5
+  Downloading wcwidth-0.2.5-py2.py3-none-any.whl (30 kB)
+Collecting webencodings==0.5.1
+  Downloading webencodings-0.5.1-py2.py3-none-any.whl (11 kB)
+Collecting widgetsnbextension==3.5.1
+  Downloading widgetsnbextension-3.5.1-py2.py3-none-any.whl (2.2 MB)
+     |████████████████████████████████| 2.2 MB ...
+Collecting wrapt==1.12.1
+  Downloading wrapt-1.12.1.tar.gz (27 kB)
+Collecting XlsxWriter==1.3.7
+  Downloading XlsxWriter-1.3.7-py2.py3-none-any.whl (144 kB)
+     |████████████████████████████████| 144 kB 6.8 MB/s
+Collecting xmltodict==0.12.0
+  Downloading xmltodict-0.12.0-py2.py3-none-any.whl (9.2 kB)
+Requirement already satisfied: setuptools>=18.5 in c:\program files\python39\lib\site-packages (from ipython==7.19.0->-r requirements.txt (line 26)) (49.2.1)
+Using legacy 'setup.py install' for amazon-scraper, since package 'wheel' is not installed.
+Using legacy 'setup.py install' for bs4, since package 'wheel' is not installed.
+Using legacy 'setup.py install' for comtypes, since package 'wheel' is not installed.
+Using legacy 'setup.py install' for et-xmlfile, since package 'wheel' is not installed.
+Using legacy 'setup.py install' for future, since package 'wheel' is not installed.
+Using legacy 'setup.py install' for pandocfilters, since package 'wheel' is not installed.
+Using legacy 'setup.py install' for pefile, since package 'wheel' is not installed.
+Using legacy 'setup.py install' for PyPDF2, since package 'wheel' is not installed.
+Using legacy 'setup.py install' for pyrsistent, since package 'wheel' is not installed.
+Using legacy 'setup.py install' for python-amazon-simple-product-api, since package 'wheel' is not installed.
+Using legacy 'setup.py install' for pywinpty, since package 'wheel' is not installed.
+Using legacy 'setup.py install' for wrapt, since package 'wheel' is not installed.
+Building wheels for collected packages: lazy-object-proxy, pyinstaller
+  Building wheel for lazy-object-proxy (PEP 517) ... done
+  Created wheel for lazy-object-proxy: filename=lazy_object_proxy-1.4.3-cp39-cp39-win_amd64.whl size=10016 sha256=2bc35eac2ac722c789a6d480a5bc361b73a92576308bd56dbeb2bd188d9da28a
+  Stored in directory: c:\users\micha\appdata\local\pip\cache\wheels\41\20\07\2a3e02cdfc8b442404202f6ef99ff1b1c16b73910968a46f2f
+  Building wheel for pyinstaller (PEP 517) ... done
+  Created wheel for pyinstaller: filename=pyinstaller-4.2-py3-none-any.whl size=2413076 sha256=a4a996258ac28f757b8293ba08a2c332e810576b8e3939d2cc6338c0f3600be4
+  Stored in directory: c:\users\micha\appdata\local\pip\cache\wheels\b2\10\66\947cc1c6aebd3e270efd8ec60cf7656d5cbad06c0b34eae143
+Successfully built lazy-object-proxy pyinstaller
+Installing collected packages: ipython-genutils, traitlets, six, pywin32, pyrsistent, attrs, wcwidth, tornado, pyzmq, python-dateutil, pyparsing, parso, jupyter-core, jsonschema, webencodings, Pygments, pycparser, prompt-toolkit, pickleshare, packaging, nest-asyncio, nbformat, MarkupSafe, jupyter-client, jedi, decorator, colorama, backcall, async-generator, testpath, pywinpty, pandocfilters, nbclient, mistune, jupyterlab-pygments, Jinja2, ipython, entrypoints, defusedxml, cffi, bleach, terminado, Send2Trash, prometheus-client, nbconvert, ipykernel, argon2-cffi, notebook, wrapt, widgetsnbextension, urllib3, soupsieve, QtPy, lxml, lazy-object-proxy, jupyterlab-widgets, idna, future, chardet, certifi, bottlenose, xmltodict, toml, requests, qtconsole, pywin32-ctypes, pytz, python-amazon-simple-product-api, pypiwin32, pyinstaller-hooks-contrib, pefile, numpy, mccabe, jupyter-console, jdcal, isort, ipywidgets, et-xmlfile, comtypes, cachetools, beautifulsoup4, astroid, altgraph, XlsxWriter, thread6, selenium, schedule, pyttsx3, PyPDF2, pylint, pyinstaller, py2exe, pandas, openpyxl, jupyter, fuzzywuzzy, bs4, amazon-scraper
+    Running setup.py install for pyrsistent ... done
+  WARNING: The scripts jupyter-migrate.exe, jupyter-troubleshoot.exe and jupyter.exe are installed in 'C:\Users\micha\AppData\Roaming\Python\Python39\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  WARNING: The script jsonschema.exe is installed in 'C:\Users\micha\AppData\Roaming\Python\Python39\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  WARNING: The script pygmentize.exe is installed in 'C:\Users\micha\AppData\Roaming\Python\Python39\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  WARNING: The script jupyter-trust.exe is installed in 'C:\Users\micha\AppData\Roaming\Python\Python39\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  WARNING: The scripts jupyter-kernel.exe, jupyter-kernelspec.exe and jupyter-run.exe are installed in 'C:\Users\micha\AppData\Roaming\Python\Python39\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+    Running setup.py install for pywinpty ... done
+    Running setup.py install for pandocfilters ... done
+  WARNING: The scripts iptest.exe, iptest3.exe, ipython.exe and ipython3.exe are installed in 'C:\Users\micha\AppData\Roaming\Python\Python39\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  WARNING: The script jupyter-nbconvert.exe is installed in 'C:\Users\micha\AppData\Roaming\Python\Python39\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  WARNING: The scripts jupyter-bundlerextension.exe, jupyter-nbextension.exe, jupyter-notebook.exe and jupyter-serverextension.exe are installed in 'C:\Users\micha\AppData\Roaming\Python\Python39\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+    Running setup.py install for wrapt ... done
+    Running setup.py install for future ... done
+  WARNING: The script chardetect.exe is installed in 'C:\Users\micha\AppData\Roaming\Python\Python39\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+    Running setup.py install for python-amazon-simple-product-api ... done
+    Running setup.py install for pefile ... done
+  WARNING: The script f2py.exe is installed in 'C:\Users\micha\AppData\Roaming\Python\Python39\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  WARNING: The script jupyter-console.exe is installed in 'C:\Users\micha\AppData\Roaming\Python\Python39\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  WARNING: The script isort.exe is installed in 'C:\Users\micha\AppData\Roaming\Python\Python39\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+    Running setup.py install for et-xmlfile ... done
+    Running setup.py install for comtypes ... done
+    Running setup.py install for PyPDF2 ... done
+  WARNING: The scripts epylint.exe, pylint.exe, pyreverse.exe and symilar.exe are installed in 'C:\Users\micha\AppData\Roaming\Python\Python39\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  WARNING: The scripts pyi-archive_viewer.exe, pyi-bindepend.exe, pyi-grab_version.exe, pyi-makespec.exe, pyi-set_version.exe and pyinstaller.exe are installed in 'C:\Users\micha\AppData\Roaming\Python\Python39\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  WARNING: The script build_exe.exe is installed in 'C:\Users\micha\AppData\Roaming\Python\Python39\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+    Running setup.py install for bs4 ... done
+    Running setup.py install for amazon-scraper ... done
+Successfully installed Jinja2-2.11.2 MarkupSafe-1.1.1 PyPDF2-1.26.0 Pygments-2.7.3 QtPy-1.9.0 Send2Trash-1.5.0 XlsxWriter-1.3.7 altgraph-0.17 amazon-scraper-0.3.3 argon2-cffi-20.1.0 astroid-2.4.2 async-generator-1.10 attrs-20.3.0 backcall-0.2.0 beautifulsoup4-4.9.3 bleach-3.2.1 bottlenose-1.1.8 bs4-0.0.1 cachetools-4.2.1 certifi-2020.12.5 cffi-1.14.4 chardet-4.0.0 colorama-0.4.4 comtypes-1.1.8 decorator-4.4.2 defusedxml-0.6.0 entrypoints-0.3 et-xmlfile-1.0.1 future-0.18.2 fuzzywuzzy-0.18.0 idna-2.10 ipykernel-5.4.2 ipython-7.19.0 ipython-genutils-0.2.0 ipywidgets-7.6.2 isort-5.6.4 jdcal-1.4.1 jedi-0.18.0 jsonschema-3.2.0 jupyter-1.0.0 jupyter-client-6.1.7 jupyter-console-6.2.0 jupyter-core-4.7.0 jupyterlab-pygments-0.1.2 jupyterlab-widgets-1.0.0 lazy-object-proxy-1.4.3 lxml-4.6.2 mccabe-0.6.1 mistune-0.8.4 nbclient-0.5.1 nbconvert-6.0.7 nbformat-5.0.8 nest-asyncio-1.4.3 notebook-6.1.6 numpy-1.20.1 openpyxl-3.0.6 packaging-20.8 pandas-1.2.2 pandocfilters-1.4.3 parso-0.8.1 pefile-2019.4.18 pickleshare-0.7.5 prometheus-client-0.9.0 prompt-toolkit-3.0.9 py2exe-0.10.2.0 pycparser-2.20 pyinstaller-4.2 pyinstaller-hooks-contrib-2020.11 pylint-2.6.0 pyparsing-2.4.7 pypiwin32-223 pyrsistent-0.17.3 python-amazon-simple-product-api-2.2.11 python-dateutil-2.8.1 pyttsx3-2.90 pytz-2021.1 pywin32-300 pywin32-ctypes-0.2.0 pywinpty-0.5.7 pyzmq-20.0.0 qtconsole-5.0.1 requests-2.25.1 schedule-1.0.0 selenium-3.141.0 six-1.15.0 soupsieve-2.1 terminado-0.9.2 testpath-0.4.4 thread6-0.2.0 toml-0.10.2 tornado-6.1 traitlets-5.0.5 urllib3-1.26.2 wcwidth-0.2.5 webencodings-0.5.1 widgetsnbextension-3.5.1 wrapt-1.12.1 xmltodict-0.12.0
+
+C:\Users\micha\Documents\Amazon_Scrape_Books\Amazon Scraper>
