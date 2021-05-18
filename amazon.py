@@ -227,6 +227,7 @@ class kindle:
                 subcategories = self.kindle_categories[ category ]
                 t = threading.Thread(target=self.helper_category_books, args=(subcategories, self.kindle_filename, ))
                 t.start()
+                t.join()
                 time.sleep(1)
             except:
                 print ("Error: unable to start new thread")
@@ -257,6 +258,8 @@ class kindle:
     def category_books(self, filename, link):
         books = []  # for book-data
         browser = webdriver.Chrome('chromedriver.exe') 
+        browser.set_window_position(680, 30)
+        browser.set_window_size(700, 700)
         try:    browser.get(link)
         except: return print('Failed to Load')
         source = browser.page_source
@@ -350,8 +353,8 @@ class kindle:
 
 
 if __name__ == '__main__':
-    audi = audible()
+    # audi = audible()
     kind = kindle()
-    audi.scrape_category()
+    # audi.scrape_category()
     kind.scrape_category()
 
