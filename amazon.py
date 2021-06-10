@@ -56,6 +56,7 @@ class audible:
                 subcategories = self.audible_categories[ category ]
                 t = threading.Thread(target=self.helper_category_books, args=(subcategories, self.audible_filename, ))
                 t.start()
+                t.join()
                 time.sleep(1)
             except: print ("Error: unable to start new thread")
 
@@ -353,8 +354,8 @@ class kindle:
 
 
 if __name__ == '__main__':
-    # audi = audible()
-    kind = kindle()
-    # audi.scrape_category()
-    kind.scrape_category()
+    audi = audible()
+    # kind = kindle()
+    audi.scrape_category()
+    # kind.scrape_category()
 
